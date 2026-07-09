@@ -1,0 +1,47 @@
+[
+  {
+    "receipt_id": "REC-201",
+    "po_number": "PO-101",
+    "vendor_name": "Acme Corp",
+    "amount": "$1,200.00",
+    "currency": "USD",
+    "receipt_date": "2026-07-05",
+    "quantity": 10
+  },
+  {
+    "receipt_id": "REC-202",
+    "po_number": "PO-102",
+    "vendor_name": "Globex Corporation",
+    "amount": "500 EUR",
+    "currency": "EUR",
+    "receipt_date": "2026-07-06",
+    "quantity": 5
+  },
+  {
+    "receipt_id": "REC-203",
+    "po_number": "PO-103",
+    "vendor_name": "Stark Industries",
+    "amount": "$1,200.00",
+    "currency": "USD",
+    "receipt_date": "2026-07-06",
+    "quantity": 100
+  },
+  {
+    "receipt_id": "REC-204",
+    "po_number": "PO-104",
+    "vendor_name": "Wayne Enterprises",
+    "amount": "800.00 EUR",
+    "currency": "EUR",
+    "receipt_date": "2026-07-06",
+    "quantity": 2
+  },
+  {
+    "receipt_id": "REC-205",
+    "po_number": "PO-105",
+    "vendor_name": "Cyberdyne Systems",
+    "amount": "10,000.00 USD",
+    "currency": "USD",
+    "receipt_date": "2026-07-06",
+    "quantity": 1
+  }
+]

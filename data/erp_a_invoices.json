@@ -1,0 +1,47 @@
+[
+  {
+    "invoice_id": "INV-001",
+    "po_number": "PO-101",
+    "vendor_name": "Acme Corp",
+    "amount": "$1,200.00",
+    "currency": "USD",
+    "invoice_date": "07/09/2026",
+    "quantity": 10
+  },
+  {
+    "invoice_id": "INV-002",
+    "po_number": "PO-102",
+    "vendor_name": "Globex Corporation",
+    "amount": "€ 500,00",
+    "currency": "EUR",
+    "invoice_date": "2026-07-08",
+    "quantity": 5
+  },
+  {
+    "invoice_id": "INV-003",
+    "po_number": "PO-103",
+    "vendor_name": "Stark Industries",
+    "amount": "1,250.00 USD",
+    "currency": "USD",
+    "invoice_date": "July 7, 2026",
+    "quantity": 100
+  },
+  {
+    "invoice_id": "INV-004",
+    "po_number": "PO-104",
+    "vendor_name": "Wayne Enterprises",
+    "amount": "1,500.00 EUR",
+    "currency": "EUR",
+    "invoice_date": "06-07-2026",
+    "quantity": 2
+  },
+  {
+    "invoice_id": "INV-005",
+    "po_number": "PO-999",
+    "vendor_name": "Umbrella Corp",
+    "amount": "$350.00",
+    "currency": "USD",
+    "invoice_date": "2026/07/05",
+    "quantity": null
+  }
+]
