@@ -1,0 +1,42 @@
+[
+  {
+    "po_number": "PO-101",
+    "vendor_name": "Acme Corp",
+    "amount": "$1,200.00",
+    "currency": "USD",
+    "po_date": "2026-07-01",
+    "quantity": 10
+  },
+  {
+    "po_number": "PO-102",
+    "vendor_name": "Globex Corporation",
+    "amount": "500 EUR",
+    "currency": "EUR",
+    "po_date": "2026-07-02",
+    "quantity": 5
+  },
+  {
+    "po_number": "PO-103",
+    "vendor_name": "Stark Industries",
+    "amount": "$1,200.00",
+    "currency": "USD",
+    "po_date": "2026-07-03",
+    "quantity": 100
+  },
+  {
+    "po_number": "PO-104",
+    "vendor_name": "Wayne Enterprises",
+    "amount": "800.00 EUR",
+    "currency": "EUR",
+    "po_date": "2026-07-04",
+    "quantity": 2
+  },
+  {
+    "po_number": "PO-105",
+    "vendor_name": "Cyberdyne Systems",
+    "amount": "10,000.00 USD",
+    "currency": "USD",
+    "po_date": "2026-07-05",
+    "quantity": 1
+  }
+]

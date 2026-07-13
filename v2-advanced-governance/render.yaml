@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: invoice-reconciliation-ledger
+    env: docker
+    dockerfilePath: Dockerfile
+    plan: free
+    region: oregon
+    envVars:
+      - key: OMP_NUM_THREADS
+        value: "1"
+      - key: MKL_NUM_THREADS
+        value: "1"
+      - key: OPENBLAS_NUM_THREADS
+        value: "1"
+      - key: VECLIB_MAXIMUM_THREADS
+        value: "1"
+      - key: NUMEXPR_NUM_THREADS
+        value: "1"
+      - key: ARROW_DEFAULT_MEMORY_POOL
+        value: "system"

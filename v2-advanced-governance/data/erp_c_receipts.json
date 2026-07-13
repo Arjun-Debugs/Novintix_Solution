@@ -1,0 +1,677 @@
+[
+  {
+    "receipt_id": "REC-3001",
+    "po_number": "PO-1001",
+    "vendor_name": "Sundar Textiles Pvt Ltd",
+    "amount": "\u00a3 1,300",
+    "currency": "GBP",
+    "receipt_date": "2026-05-22",
+    "quantity": 18
+  },
+  {
+    "receipt_id": "REC-3002",
+    "po_number": "PO-1002",
+    "vendor_name": "Stark Industries LLC",
+    "amount": "INR 255.74",
+    "currency": "INR",
+    "receipt_date": "2026-05-15",
+    "quantity": 12
+  },
+  {
+    "receipt_id": "REC-3003",
+    "po_number": "PO-1003",
+    "vendor_name": "Wayne Enterprises Inc",
+    "amount": "\u20ac 3,608.50",
+    "currency": "EUR",
+    "receipt_date": "2026-05-24",
+    "quantity": 90
+  },
+  {
+    "receipt_id": "REC-3004",
+    "po_number": "PO-1004",
+    "vendor_name": "Globex Corporation",
+    "amount": "3,818.16 USD",
+    "currency": "USD",
+    "receipt_date": "2026-06-05",
+    "quantity": 21
+  },
+  {
+    "receipt_id": "REC-3005",
+    "po_number": "PO-1005",
+    "vendor_name": "Acme Industrial Products",
+    "amount": "600.83 GBP",
+    "currency": "GBP",
+    "receipt_date": "2026-06-15",
+    "quantity": 49
+  },
+  {
+    "receipt_id": "REC-3006",
+    "po_number": "PO-1006",
+    "vendor_name": "Umbrella BioChemicals",
+    "amount": "$3,675.69",
+    "currency": "USD",
+    "receipt_date": "2026-05-26",
+    "quantity": 69
+  },
+  {
+    "receipt_id": "REC-3007",
+    "po_number": "PO-1007",
+    "vendor_name": "Tyrell Nexus Corp",
+    "amount": "\u00a3 2,929",
+    "currency": "GBP",
+    "receipt_date": "2026-05-29",
+    "quantity": 91
+  },
+  {
+    "receipt_id": "REC-3008",
+    "po_number": "PO-1008",
+    "vendor_name": "Cyberdyne Systems Tech",
+    "amount": "\u20ac 4.345,77",
+    "currency": "EUR",
+    "receipt_date": "2026-06-19",
+    "quantity": 49
+  },
+  {
+    "receipt_id": "REC-3009",
+    "po_number": "PO-1009",
+    "vendor_name": "Oscorp Industries",
+    "amount": "\u00a3 1,127",
+    "currency": "GBP",
+    "receipt_date": "2026-06-09",
+    "quantity": 35
+  },
+  {
+    "receipt_id": "REC-3010",
+    "po_number": "PO-1010",
+    "vendor_name": "Soylent Green Co",
+    "amount": "\u20ac 900,67",
+    "currency": "EUR",
+    "receipt_date": "2026-06-28",
+    "quantity": 49
+  },
+  {
+    "receipt_id": "REC-3011",
+    "po_number": "PO-1011",
+    "vendor_name": "Hanamura Electronics",
+    "amount": "\u00a3 4,229.97",
+    "currency": "GBP",
+    "receipt_date": "2026-05-28",
+    "quantity": 100
+  },
+  {
+    "receipt_id": "REC-3012",
+    "po_number": "PO-1012",
+    "vendor_name": "Initech Software",
+    "amount": "$1,133.82",
+    "currency": "USD",
+    "receipt_date": "2026-06-14",
+    "quantity": 73
+  },
+  {
+    "receipt_id": "REC-3013",
+    "po_number": "PO-1013",
+    "vendor_name": "Veidt Enterprises",
+    "amount": "INR 800.07",
+    "currency": "INR",
+    "receipt_date": "2026-05-24",
+    "quantity": 18
+  },
+  {
+    "receipt_id": "REC-3014",
+    "po_number": "PO-1014",
+    "vendor_name": "Dunder Mifflin Paper",
+    "amount": "\u20b9 4,499.33",
+    "currency": "INR",
+    "receipt_date": "2026-05-30",
+    "quantity": 52
+  },
+  {
+    "receipt_id": "REC-3015",
+    "po_number": "PO-1015",
+    "vendor_name": "Aperture Science Labs",
+    "amount": "$4,319",
+    "currency": "USD",
+    "receipt_date": "2026-06-02",
+    "quantity": 20
+  },
+  {
+    "receipt_id": "REC-3016",
+    "po_number": "PO-1016",
+    "vendor_name": "Prestige Worldwide",
+    "amount": "INR 3,019.85",
+    "currency": "INR",
+    "receipt_date": "2026-06-04",
+    "quantity": 60
+  },
+  {
+    "receipt_id": "REC-3017",
+    "po_number": "PO-1017",
+    "vendor_name": "Bluth Development",
+    "amount": "3,866.13 GBP",
+    "currency": "GBP",
+    "receipt_date": "2026-07-01",
+    "quantity": 44
+  },
+  {
+    "receipt_id": "REC-3018",
+    "po_number": "PO-1018",
+    "vendor_name": "Reynholm Industries",
+    "amount": "\u00a3 4,862.25",
+    "currency": "GBP",
+    "receipt_date": "2026-06-24",
+    "quantity": 98
+  },
+  {
+    "receipt_id": "REC-3019",
+    "po_number": "PO-1019",
+    "vendor_name": "Momcorp Robotics",
+    "amount": "\u20ac 848,91",
+    "currency": "EUR",
+    "receipt_date": "2026-05-24",
+    "quantity": 98
+  },
+  {
+    "receipt_id": "REC-3020",
+    "po_number": "PO-1020",
+    "vendor_name": "Vandelay Industries Solutions",
+    "amount": "$648.15",
+    "currency": "USD",
+    "receipt_date": "2026-07-03",
+    "quantity": 47
+  },
+  {
+    "receipt_id": "REC-3021",
+    "po_number": "PO-1021",
+    "vendor_name": "Sundar Textiles Pvt Ltd",
+    "amount": "\u20b9 4,098.51",
+    "currency": "INR",
+    "receipt_date": "2026-06-16",
+    "quantity": 98
+  },
+  {
+    "receipt_id": "REC-3022",
+    "po_number": "PO-1022",
+    "vendor_name": "Stark Industries LLC",
+    "amount": "\u20ac 1.398,78",
+    "currency": "EUR",
+    "receipt_date": "2026-05-23",
+    "quantity": 78
+  },
+  {
+    "receipt_id": "REC-3023",
+    "po_number": "PO-1023",
+    "vendor_name": "Wayne Enterprises Inc",
+    "amount": "2,055.06 GBP",
+    "currency": "GBP",
+    "receipt_date": "2026-05-15",
+    "quantity": 86
+  },
+  {
+    "receipt_id": "REC-3024",
+    "po_number": "PO-1024",
+    "vendor_name": "Globex Corporation",
+    "amount": "\u20ac 1.201,02",
+    "currency": "EUR",
+    "receipt_date": "2026-06-01",
+    "quantity": 44
+  },
+  {
+    "receipt_id": "REC-3025",
+    "po_number": "PO-1025",
+    "vendor_name": "Acme Industrial Products",
+    "amount": "$3,568.42",
+    "currency": "USD",
+    "receipt_date": "2026-06-18",
+    "quantity": 8
+  },
+  {
+    "receipt_id": "REC-3026",
+    "po_number": "PO-1026",
+    "vendor_name": "Umbrella BioChemicals",
+    "amount": "\u20b9 1,149.76",
+    "currency": "INR",
+    "receipt_date": "2026-05-31",
+    "quantity": 17
+  },
+  {
+    "receipt_id": "REC-3027",
+    "po_number": "PO-1027",
+    "vendor_name": "Tyrell Nexus Corp",
+    "amount": "INR 1,836.06",
+    "currency": "INR",
+    "receipt_date": "2026-06-25",
+    "quantity": 53
+  },
+  {
+    "receipt_id": "REC-3028",
+    "po_number": "PO-1028",
+    "vendor_name": "Cyberdyne Systems Tech",
+    "amount": "\u20b9 3,668.25",
+    "currency": "INR",
+    "receipt_date": "2026-05-21",
+    "quantity": 14
+  },
+  {
+    "receipt_id": "REC-3029",
+    "po_number": "PO-1029",
+    "vendor_name": "Oscorp Industries",
+    "amount": "\u20b9 1,324.05",
+    "currency": "INR",
+    "receipt_date": "2026-06-05",
+    "quantity": 10
+  },
+  {
+    "receipt_id": "REC-3030",
+    "po_number": "PO-1030",
+    "vendor_name": "Soylent Green Co",
+    "amount": "\u20ac 914.92",
+    "currency": "EUR",
+    "receipt_date": "2026-05-21",
+    "quantity": 63
+  },
+  {
+    "receipt_id": "REC-3031",
+    "po_number": "PO-1031",
+    "vendor_name": "Hanamura Electronics",
+    "amount": "\u00a3 4,640",
+    "currency": "GBP",
+    "receipt_date": "2026-06-07",
+    "quantity": 59
+  },
+  {
+    "receipt_id": "REC-3032",
+    "po_number": "PO-1032",
+    "vendor_name": "Initech Software",
+    "amount": "\u20ac 1.553,87",
+    "currency": "EUR",
+    "receipt_date": "2026-05-20",
+    "quantity": 8
+  },
+  {
+    "receipt_id": "REC-3033",
+    "po_number": "PO-1033",
+    "vendor_name": "Veidt Enterprises",
+    "amount": "$4,271.58",
+    "currency": "USD",
+    "receipt_date": "2026-06-02",
+    "quantity": 9
+  },
+  {
+    "receipt_id": "REC-3034",
+    "po_number": "PO-1034",
+    "vendor_name": "Dunder Mifflin Paper",
+    "amount": "$3,135",
+    "currency": "USD",
+    "receipt_date": "2026-05-27",
+    "quantity": 54
+  },
+  {
+    "receipt_id": "REC-3035",
+    "po_number": "PO-1035",
+    "vendor_name": "Aperture Science Labs",
+    "amount": "741.30 INR",
+    "currency": "INR",
+    "receipt_date": "2026-06-12",
+    "quantity": 83
+  },
+  {
+    "receipt_id": "REC-3036",
+    "po_number": "PO-1036",
+    "vendor_name": "Prestige Worldwide",
+    "amount": "2,578.84 EUR",
+    "currency": "EUR",
+    "receipt_date": "2026-05-23",
+    "quantity": 17
+  },
+  {
+    "receipt_id": "REC-3037",
+    "po_number": "PO-1037",
+    "vendor_name": "Bluth Development",
+    "amount": "\u00a3 3,097",
+    "currency": "GBP",
+    "receipt_date": "2026-06-24",
+    "quantity": 84
+  },
+  {
+    "receipt_id": "REC-3038",
+    "po_number": "PO-1038",
+    "vendor_name": "Reynholm Industries",
+    "amount": "$4,460",
+    "currency": "USD",
+    "receipt_date": "2026-06-26",
+    "quantity": 96
+  },
+  {
+    "receipt_id": "REC-3039",
+    "po_number": "PO-1039",
+    "vendor_name": "Momcorp Robotics",
+    "amount": "\u00a3 2,576.50",
+    "currency": "GBP",
+    "receipt_date": "2026-06-11",
+    "quantity": 33
+  },
+  {
+    "receipt_id": "REC-3040",
+    "po_number": "PO-1040",
+    "vendor_name": "Vandelay Industries Solutions",
+    "amount": "3,221.86 EUR",
+    "currency": "EUR",
+    "receipt_date": "2026-07-03",
+    "quantity": 34
+  },
+  {
+    "receipt_id": "REC-3041",
+    "po_number": "PO-1041",
+    "vendor_name": "Sundar Textiles Pvt Ltd",
+    "amount": "$648.18",
+    "currency": "USD",
+    "receipt_date": "2026-05-30",
+    "quantity": 89
+  },
+  {
+    "receipt_id": "REC-3042",
+    "po_number": "PO-1042",
+    "vendor_name": "Stark Industries LLC",
+    "amount": "\u20ac 304.96",
+    "currency": "EUR",
+    "receipt_date": "2026-06-09",
+    "quantity": 47
+  },
+  {
+    "receipt_id": "REC-3043",
+    "po_number": "PO-1043",
+    "vendor_name": "Wayne Enterprises Inc",
+    "amount": "$1,833",
+    "currency": "USD",
+    "receipt_date": "2026-05-20",
+    "quantity": 72
+  },
+  {
+    "receipt_id": "REC-3044",
+    "po_number": "PO-1044",
+    "vendor_name": "Globex Corporation",
+    "amount": "\u20ac 4,883.41",
+    "currency": "EUR",
+    "receipt_date": "2026-06-23",
+    "quantity": 23
+  },
+  {
+    "receipt_id": "REC-3045",
+    "po_number": "PO-1045",
+    "vendor_name": "Acme Industrial Products",
+    "amount": "\u20b9 4,030.95",
+    "currency": "INR",
+    "receipt_date": "2026-05-17",
+    "quantity": 95
+  },
+  {
+    "receipt_id": "REC-3046",
+    "po_number": "PO-1046",
+    "vendor_name": "Umbrella BioChemicals",
+    "amount": "4,307.11 USD",
+    "currency": "USD",
+    "receipt_date": "2026-05-12",
+    "quantity": 29
+  },
+  {
+    "receipt_id": "REC-3047",
+    "po_number": "PO-1047",
+    "vendor_name": "Tyrell Nexus Corp",
+    "amount": "$3,334.16",
+    "currency": "USD",
+    "receipt_date": "2026-06-13",
+    "quantity": 52
+  },
+  {
+    "receipt_id": "REC-3048",
+    "po_number": "PO-1048",
+    "vendor_name": "Cyberdyne Systems Tech",
+    "amount": "\u20b9 3,429.64",
+    "currency": "INR",
+    "receipt_date": "2026-05-15",
+    "quantity": 69
+  },
+  {
+    "receipt_id": "REC-3049",
+    "po_number": "PO-1049",
+    "vendor_name": "Oscorp Industries",
+    "amount": "\u00a3 287",
+    "currency": "GBP",
+    "receipt_date": "2026-06-16",
+    "quantity": 77
+  },
+  {
+    "receipt_id": "REC-3050",
+    "po_number": "PO-1050",
+    "vendor_name": "Soylent Green Co",
+    "amount": "$1,987.46",
+    "currency": "USD",
+    "receipt_date": "2026-05-14",
+    "quantity": 74
+  },
+  {
+    "receipt_id": "REC-3051",
+    "po_number": "PO-1051",
+    "vendor_name": "Hanamura Electronics",
+    "amount": "\u20ac 1.884,69",
+    "currency": "EUR",
+    "receipt_date": "2026-05-20",
+    "quantity": 9
+  },
+  {
+    "receipt_id": "REC-3052",
+    "po_number": "PO-1052",
+    "vendor_name": "Initech Software",
+    "amount": "2,584.90 GBP",
+    "currency": "GBP",
+    "receipt_date": "2026-06-11",
+    "quantity": 86
+  },
+  {
+    "receipt_id": "REC-3053",
+    "po_number": "PO-1053",
+    "vendor_name": "Veidt Enterprises",
+    "amount": "\u20ac 1.040,02",
+    "currency": "EUR",
+    "receipt_date": "2026-05-20",
+    "quantity": 86
+  },
+  {
+    "receipt_id": "REC-3054",
+    "po_number": "PO-1054",
+    "vendor_name": "Dunder Mifflin Paper",
+    "amount": "$1,589",
+    "currency": "USD",
+    "receipt_date": "2026-06-22",
+    "quantity": 27
+  },
+  {
+    "receipt_id": "REC-3055",
+    "po_number": "PO-1055",
+    "vendor_name": "Aperture Science Labs",
+    "amount": "INR 2,266.58",
+    "currency": "INR",
+    "receipt_date": "2026-05-23",
+    "quantity": 28
+  },
+  {
+    "receipt_id": "REC-3056",
+    "po_number": "PO-1056",
+    "vendor_name": "Prestige Worldwide",
+    "amount": "557.60 GBP",
+    "currency": "GBP",
+    "receipt_date": "2026-06-21",
+    "quantity": 97
+  },
+  {
+    "receipt_id": "REC-3057",
+    "po_number": "PO-1057",
+    "vendor_name": "Bluth Development",
+    "amount": "326.45 USD",
+    "currency": "USD",
+    "receipt_date": "2026-06-18",
+    "quantity": 61
+  },
+  {
+    "receipt_id": "REC-3058",
+    "po_number": "PO-1058",
+    "vendor_name": "Reynholm Industries",
+    "amount": "INR 2,522.45",
+    "currency": "INR",
+    "receipt_date": "2026-06-06",
+    "quantity": 32
+  },
+  {
+    "receipt_id": "REC-3059",
+    "po_number": "PO-1059",
+    "vendor_name": "Momcorp Robotics",
+    "amount": "\u20b9 1,172.32",
+    "currency": "INR",
+    "receipt_date": "2026-07-01",
+    "quantity": 90
+  },
+  {
+    "receipt_id": "REC-3060",
+    "po_number": "PO-1060",
+    "vendor_name": "Vandelay Industries Solutions",
+    "amount": "$2,337",
+    "currency": "USD",
+    "receipt_date": "2026-05-28",
+    "quantity": 60
+  },
+  {
+    "receipt_id": "REC-3061",
+    "po_number": "PO-1061",
+    "vendor_name": "Sundar Textiles Pvt Ltd",
+    "amount": "INR 3,102.00",
+    "currency": "INR",
+    "receipt_date": "2026-05-26",
+    "quantity": 93
+  },
+  {
+    "receipt_id": "REC-3062",
+    "po_number": "PO-1062",
+    "vendor_name": "Stark Industries LLC",
+    "amount": "2,305.34 INR",
+    "currency": "INR",
+    "receipt_date": "2026-06-04",
+    "quantity": 97
+  },
+  {
+    "receipt_id": "REC-3063",
+    "po_number": "PO-1063",
+    "vendor_name": "Wayne Enterprises Inc",
+    "amount": "\u20ac 1,445.53",
+    "currency": "EUR",
+    "receipt_date": "2026-05-16",
+    "quantity": 10
+  },
+  {
+    "receipt_id": "REC-3064",
+    "po_number": "PO-1064",
+    "vendor_name": "Globex Corporation",
+    "amount": "$778.03",
+    "currency": "USD",
+    "receipt_date": "2026-06-16",
+    "quantity": 30
+  },
+  {
+    "receipt_id": "REC-3065",
+    "po_number": "PO-1065",
+    "vendor_name": "Acme Industrial Products",
+    "amount": "\u20b9 2,097.24",
+    "currency": "INR",
+    "receipt_date": "2026-05-18",
+    "quantity": 70
+  },
+  {
+    "receipt_id": "REC-3066",
+    "po_number": "PO-1066",
+    "vendor_name": "Umbrella BioChemicals",
+    "amount": "4,297.99 USD",
+    "currency": "USD",
+    "receipt_date": "2026-06-21",
+    "quantity": 98
+  },
+  {
+    "receipt_id": "REC-3067",
+    "po_number": "PO-1067",
+    "vendor_name": "Tyrell Nexus Corp",
+    "amount": "INR 4,281.89",
+    "currency": "INR",
+    "receipt_date": "2026-07-03",
+    "quantity": 54
+  },
+  {
+    "receipt_id": "REC-3068",
+    "po_number": "PO-1068",
+    "vendor_name": "Cyberdyne Systems Tech",
+    "amount": "1,437.38 EUR",
+    "currency": "EUR",
+    "receipt_date": "2026-05-29",
+    "quantity": 63
+  },
+  {
+    "receipt_id": "REC-3069",
+    "po_number": "PO-1069",
+    "vendor_name": "Oscorp Industries",
+    "amount": "\u20ac 4,218.48",
+    "currency": "EUR",
+    "receipt_date": "2026-05-23",
+    "quantity": 17
+  },
+  {
+    "receipt_id": "REC-3070",
+    "po_number": "PO-1070",
+    "vendor_name": "Soylent Green Co",
+    "amount": "764.93 INR",
+    "currency": "INR",
+    "receipt_date": "2026-06-06",
+    "quantity": 60
+  },
+  {
+    "receipt_id": "REC-3071",
+    "po_number": "PO-1071",
+    "vendor_name": "Hanamura Electronics",
+    "amount": "1,701.54 INR",
+    "currency": "INR",
+    "receipt_date": "2026-06-09",
+    "quantity": 98
+  },
+  {
+    "receipt_id": "REC-3072",
+    "po_number": "PO-1072",
+    "vendor_name": "Initech Software",
+    "amount": "$3,770",
+    "currency": "USD",
+    "receipt_date": "2026-06-15",
+    "quantity": 7
+  },
+  {
+    "receipt_id": "REC-3073",
+    "po_number": "PO-1073",
+    "vendor_name": "Veidt Enterprises",
+    "amount": "$4,753.10",
+    "currency": "USD",
+    "receipt_date": "2026-06-27",
+    "quantity": 26
+  },
+  {
+    "receipt_id": "REC-3074",
+    "po_number": "PO-1074",
+    "vendor_name": "Dunder Mifflin Paper",
+    "amount": "2,863.45 USD",
+    "currency": "USD",
+    "receipt_date": "2026-06-17",
+    "quantity": 28
+  },
+  {
+    "receipt_id": "REC-3075",
+    "po_number": "PO-1075",
+    "vendor_name": "Aperture Science Labs",
+    "amount": "$3,911",
+    "currency": "USD",
+    "receipt_date": "2026-05-15",
+    "quantity": 21
+  }
+]

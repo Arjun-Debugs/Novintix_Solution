@@ -1,0 +1,677 @@
+[
+  {
+    "invoice_id": "INV-2001",
+    "po_number": "PO-1001",
+    "vendor_name": "Sundar Textiles Pvt Ltd",
+    "amount": "\u00a3 1,300",
+    "currency": "GBP",
+    "invoice_date": "2026-05-24",
+    "quantity": 18
+  },
+  {
+    "invoice_id": "INV-2002",
+    "po_number": "PO-1002",
+    "vendor_name": "Stark Industries LLC",
+    "amount": "\u20b9 255.74",
+    "currency": "INR",
+    "invoice_date": "2026-05-21",
+    "quantity": 12
+  },
+  {
+    "invoice_id": "INV-2003",
+    "po_number": "PO-1003",
+    "vendor_name": "Wayne Enterprises Inc",
+    "amount": "\u20ac 3.608,50",
+    "currency": "EUR",
+    "invoice_date": "2026-05-30",
+    "quantity": 90
+  },
+  {
+    "invoice_id": "INV-2004",
+    "po_number": "PO-1004",
+    "vendor_name": "Globex Corporation",
+    "amount": "$3,818",
+    "currency": "USD",
+    "invoice_date": "2026-06-11",
+    "quantity": 21
+  },
+  {
+    "invoice_id": "INV-2005",
+    "po_number": "PO-1005",
+    "vendor_name": "Acme Industrial Products",
+    "amount": "\u00a3 600.83",
+    "currency": "GBP",
+    "invoice_date": "2026-06-17",
+    "quantity": 49
+  },
+  {
+    "invoice_id": "INV-2006",
+    "po_number": "PO-1006",
+    "vendor_name": "Umbrella BioChemicals",
+    "amount": "$3,675.69",
+    "currency": "USD",
+    "invoice_date": "2026-06-01",
+    "quantity": 69
+  },
+  {
+    "invoice_id": "INV-2007",
+    "po_number": "PO-1007",
+    "vendor_name": "Tyrell Nexus Corp",
+    "amount": "\u00a3 2,929.03",
+    "currency": "GBP",
+    "invoice_date": "2026-06-04",
+    "quantity": 91
+  },
+  {
+    "invoice_id": "INV-2008",
+    "po_number": "PO-1008",
+    "vendor_name": "Cyberdyne Systems Tech",
+    "amount": "4,345.77 EUR",
+    "currency": "EUR",
+    "invoice_date": "2026-06-19",
+    "quantity": 49
+  },
+  {
+    "invoice_id": "INV-2009",
+    "po_number": "PO-1009",
+    "vendor_name": "Oscorp Industries",
+    "amount": "\u00a3 1,127",
+    "currency": "GBP",
+    "invoice_date": "2026-06-12",
+    "quantity": 35
+  },
+  {
+    "invoice_id": "INV-2010",
+    "po_number": "PO-1010",
+    "vendor_name": "Soylent Green Co",
+    "amount": "900.67 EUR",
+    "currency": "EUR",
+    "invoice_date": "2026-07-03",
+    "quantity": 49
+  },
+  {
+    "invoice_id": "INV-2011",
+    "po_number": "PO-1011",
+    "vendor_name": "Hanamura Electronics",
+    "amount": "\u00a3 4,229.97",
+    "currency": "GBP",
+    "invoice_date": "2026-06-03",
+    "quantity": 100
+  },
+  {
+    "invoice_id": "INV-2012",
+    "po_number": "PO-1012",
+    "vendor_name": "Initech Software",
+    "amount": "$1,134",
+    "currency": "USD",
+    "invoice_date": "2026-06-15",
+    "quantity": 73
+  },
+  {
+    "invoice_id": "INV-2013",
+    "po_number": "PO-1013",
+    "vendor_name": "Veidt Enterprises",
+    "amount": "\u20b9 800.07",
+    "currency": "INR",
+    "invoice_date": "2026-05-26",
+    "quantity": 18
+  },
+  {
+    "invoice_id": "INV-2014",
+    "po_number": "PO-1014",
+    "vendor_name": "Dunder Mifflin Paper",
+    "amount": "4,499.33 INR",
+    "currency": "INR",
+    "invoice_date": "2026-06-04",
+    "quantity": 52
+  },
+  {
+    "invoice_id": "INV-2015",
+    "po_number": "PO-1015",
+    "vendor_name": "Aperture Science Labs",
+    "amount": "$4,319",
+    "currency": "USD",
+    "invoice_date": "2026-06-01",
+    "quantity": 20
+  },
+  {
+    "invoice_id": "INV-2016",
+    "po_number": "PO-1016",
+    "vendor_name": "Prestige Worldwide",
+    "amount": "INR 3,019.85",
+    "currency": "INR",
+    "invoice_date": "2026-06-09",
+    "quantity": 60
+  },
+  {
+    "invoice_id": "INV-2017",
+    "po_number": "PO-1017",
+    "vendor_name": "Bluth Development",
+    "amount": "\u00a3 3,866.13",
+    "currency": "GBP",
+    "invoice_date": "2026-07-08",
+    "quantity": 44
+  },
+  {
+    "invoice_id": "INV-2018",
+    "po_number": "PO-1018",
+    "vendor_name": "Reynholm Industries",
+    "amount": "\u00a3 4,862.25",
+    "currency": "GBP",
+    "invoice_date": "2026-06-23",
+    "quantity": 98
+  },
+  {
+    "invoice_id": "INV-2019",
+    "po_number": "PO-1019",
+    "vendor_name": "Momcorp Robotics",
+    "amount": "\u20ac 848.91",
+    "currency": "EUR",
+    "invoice_date": "2026-05-30",
+    "quantity": 98
+  },
+  {
+    "invoice_id": "INV-2020",
+    "po_number": "PO-1020",
+    "vendor_name": "Vandelay Industries Solutions",
+    "amount": "648.15 USD",
+    "currency": "USD",
+    "invoice_date": "2026-07-06",
+    "quantity": 47
+  },
+  {
+    "invoice_id": "INV-2021",
+    "po_number": "PO-1021",
+    "vendor_name": "Sundar Textiles Pvt Ltd",
+    "amount": "INR 4,098.51",
+    "currency": "INR",
+    "invoice_date": "2026-06-18",
+    "quantity": 98
+  },
+  {
+    "invoice_id": "INV-2022",
+    "po_number": "PO-1022",
+    "vendor_name": "Stark Industries LLC",
+    "amount": "1,398.78 EUR",
+    "currency": "EUR",
+    "invoice_date": "2026-05-26",
+    "quantity": 78
+  },
+  {
+    "invoice_id": "INV-2023",
+    "po_number": "PO-1023",
+    "vendor_name": "Wayne Enterprises Inc",
+    "amount": "\u00a3 2,055",
+    "currency": "GBP",
+    "invoice_date": "2026-05-21",
+    "quantity": 86
+  },
+  {
+    "invoice_id": "INV-2024",
+    "po_number": "PO-1024",
+    "vendor_name": "Globex Corporation",
+    "amount": "\u20ac 1,201.02",
+    "currency": "EUR",
+    "invoice_date": "2026-05-31",
+    "quantity": 44
+  },
+  {
+    "invoice_id": "INV-2025",
+    "po_number": null,
+    "vendor_name": "ACME INDUSTRIAL PRODUCTS",
+    "amount": "$3,613.72",
+    "currency": "USD",
+    "invoice_date": "2026-06-19",
+    "quantity": 8
+  },
+  {
+    "invoice_id": "INV-2026",
+    "po_number": null,
+    "vendor_name": "Umbrella BioChemicals",
+    "amount": "1,172.43 INR",
+    "currency": "INR",
+    "invoice_date": "2026-06-03",
+    "quantity": 17
+  },
+  {
+    "invoice_id": "INV-2027",
+    "po_number": null,
+    "vendor_name": "Tyrell Nexus Corp",
+    "amount": "\u20b9 1,917.86",
+    "currency": "INR",
+    "invoice_date": "2026-07-02",
+    "quantity": 53
+  },
+  {
+    "invoice_id": "INV-2028",
+    "po_number": null,
+    "vendor_name": "CYBERDYNE SYSTEMS TECH",
+    "amount": "INR 3,733.04",
+    "currency": "INR",
+    "invoice_date": "2026-05-23",
+    "quantity": 14
+  },
+  {
+    "invoice_id": "INV-2029",
+    "po_number": null,
+    "vendor_name": "Oscorp Ind",
+    "amount": "INR 1,380.08",
+    "currency": "INR",
+    "invoice_date": "2026-06-08",
+    "quantity": 10
+  },
+  {
+    "invoice_id": "INV-2030",
+    "po_number": null,
+    "vendor_name": "Soylent Green Co",
+    "amount": "931.89 EUR",
+    "currency": "EUR",
+    "invoice_date": "2026-05-23",
+    "quantity": 63
+  },
+  {
+    "invoice_id": "INV-2031",
+    "po_number": null,
+    "vendor_name": "hanamura electronics",
+    "amount": "\u00a3 4,765",
+    "currency": "GBP",
+    "invoice_date": "2026-06-12",
+    "quantity": 59
+  },
+  {
+    "invoice_id": "INV-2032",
+    "po_number": null,
+    "vendor_name": "Initech Software",
+    "amount": "\u20ac 1,615.90",
+    "currency": "EUR",
+    "invoice_date": "2026-05-20",
+    "quantity": 8
+  },
+  {
+    "invoice_id": "INV-2033",
+    "po_number": null,
+    "vendor_name": "Veidt Enterprises",
+    "amount": "$4,429.66",
+    "currency": "USD",
+    "invoice_date": "2026-06-03",
+    "quantity": 9
+  },
+  {
+    "invoice_id": "INV-2034",
+    "po_number": null,
+    "vendor_name": "dunder mifflin paper",
+    "amount": "$3,283.53",
+    "currency": "USD",
+    "invoice_date": "2026-06-01",
+    "quantity": 54
+  },
+  {
+    "invoice_id": "INV-2035",
+    "po_number": null,
+    "vendor_name": "aperture science labs",
+    "amount": "\u20b9 762.27",
+    "currency": "INR",
+    "invoice_date": "2026-06-15",
+    "quantity": 83
+  },
+  {
+    "invoice_id": "INV-2036",
+    "po_number": null,
+    "vendor_name": "prestige worldwide",
+    "amount": "\u20ac 2,695.49",
+    "currency": "EUR",
+    "invoice_date": "2026-05-25",
+    "quantity": 17
+  },
+  {
+    "invoice_id": "INV-2037",
+    "po_number": null,
+    "vendor_name": "Bluth Development",
+    "amount": "\u00a3 3,211",
+    "currency": "GBP",
+    "invoice_date": "2026-06-29",
+    "quantity": 84
+  },
+  {
+    "invoice_id": "INV-2038",
+    "po_number": null,
+    "vendor_name": "REYNHOLM INDUSTRIES",
+    "amount": "$4,553",
+    "currency": "USD",
+    "invoice_date": "2026-06-29",
+    "quantity": 96
+  },
+  {
+    "invoice_id": "INV-2039",
+    "po_number": null,
+    "vendor_name": "Momcorp Robotics",
+    "amount": "2,611.78 GBP",
+    "currency": "GBP",
+    "invoice_date": "2026-06-17",
+    "quantity": 33
+  },
+  {
+    "invoice_id": "INV-2040",
+    "po_number": "PO-1040",
+    "vendor_name": "Vandelay Industries Solutions",
+    "amount": "\u20ac 4,027.33",
+    "currency": "EUR",
+    "invoice_date": "2026-07-09",
+    "quantity": 34
+  },
+  {
+    "invoice_id": "INV-2041",
+    "po_number": "PO-1041",
+    "vendor_name": "Sundar Textiles Pvt Ltd",
+    "amount": "$810.22",
+    "currency": "USD",
+    "invoice_date": "2026-06-02",
+    "quantity": 89
+  },
+  {
+    "invoice_id": "INV-2042",
+    "po_number": "PO-1042",
+    "vendor_name": "Stark Industries LLC",
+    "amount": "\u20ac 381.20",
+    "currency": "EUR",
+    "invoice_date": "2026-06-13",
+    "quantity": 47
+  },
+  {
+    "invoice_id": "INV-2043",
+    "po_number": "PO-1043",
+    "vendor_name": "Wayne Enterprises Inc",
+    "amount": "2,291.29 USD",
+    "currency": "USD",
+    "invoice_date": "2026-05-26",
+    "quantity": 72
+  },
+  {
+    "invoice_id": "INV-2044",
+    "po_number": "PO-1044",
+    "vendor_name": "Globex Corporation",
+    "amount": "6,104.26 EUR",
+    "currency": "EUR",
+    "invoice_date": "2026-06-30",
+    "quantity": 23
+  },
+  {
+    "invoice_id": "INV-2045",
+    "po_number": "PO-1045",
+    "vendor_name": "Acme Industrial Products",
+    "amount": "\u20b9 5,038.69",
+    "currency": "INR",
+    "invoice_date": "2026-05-23",
+    "quantity": 95
+  },
+  {
+    "invoice_id": "INV-2046",
+    "po_number": "PO-1046",
+    "vendor_name": "Umbrella BioChemicals",
+    "amount": "$5,383.89",
+    "currency": "USD",
+    "invoice_date": "2026-05-17",
+    "quantity": 29
+  },
+  {
+    "invoice_id": "INV-2047",
+    "po_number": "PO-1047",
+    "vendor_name": "Tyrell Nexus Corp",
+    "amount": "4,167.70 USD",
+    "currency": "USD",
+    "invoice_date": "2026-06-15",
+    "quantity": 52
+  },
+  {
+    "invoice_id": "INV-2048",
+    "po_number": "PO-1048",
+    "vendor_name": "Cyberdyne Systems Tech",
+    "amount": "4,287.05 INR",
+    "currency": "INR",
+    "invoice_date": "2026-05-17",
+    "quantity": 69
+  },
+  {
+    "invoice_id": "INV-2049",
+    "po_number": "PO-1049",
+    "vendor_name": "Oscorp Industries",
+    "amount": "359.32 GBP",
+    "currency": "GBP",
+    "invoice_date": "2026-06-21",
+    "quantity": 77
+  },
+  {
+    "invoice_id": "INV-2050",
+    "po_number": "PO-1050",
+    "vendor_name": "Soylent Green Co",
+    "amount": "$1,987.46",
+    "currency": "USD",
+    "invoice_date": "2026-05-17",
+    "quantity": 74
+  },
+  {
+    "invoice_id": "INV-2051",
+    "po_number": "PO-1051",
+    "vendor_name": "Hanamura Electronics",
+    "amount": "\u20ac 1.884,69",
+    "currency": "EUR",
+    "invoice_date": "2026-05-19",
+    "quantity": 9
+  },
+  {
+    "invoice_id": "INV-2052",
+    "po_number": "PO-1052",
+    "vendor_name": "Initech Software",
+    "amount": "2,584.90 GBP",
+    "currency": "GBP",
+    "invoice_date": "2026-06-18",
+    "quantity": 86
+  },
+  {
+    "invoice_id": "INV-2053",
+    "po_number": "PO-1053",
+    "vendor_name": "Veidt Enterprises",
+    "amount": "1,040.02 EUR",
+    "currency": "EUR",
+    "invoice_date": "2026-05-24",
+    "quantity": 86
+  },
+  {
+    "invoice_id": "INV-2054",
+    "po_number": "PO-1054",
+    "vendor_name": "Dunder Mifflin Paper",
+    "amount": "1,588.99 USD",
+    "currency": "USD",
+    "invoice_date": "2026-06-25",
+    "quantity": 27
+  },
+  {
+    "invoice_id": "INV-2055",
+    "po_number": "PO-1055",
+    "vendor_name": "Aperture Science Labs",
+    "amount": "INR 2,266.58",
+    "currency": "INR",
+    "invoice_date": "2026-05-26",
+    "quantity": 28
+  },
+  {
+    "invoice_id": "INV-2056",
+    "po_number": "PO-1056",
+    "vendor_name": "Prestige Worldwide",
+    "amount": "\u00a3 557.60",
+    "currency": "GBP",
+    "invoice_date": "2026-06-25",
+    "quantity": 97
+  },
+  {
+    "invoice_id": "INV-2057",
+    "po_number": "PO-1057",
+    "vendor_name": "Bluth Development",
+    "amount": "$326",
+    "currency": "USD",
+    "invoice_date": "2026-06-20",
+    "quantity": 61
+  },
+  {
+    "invoice_id": "INV-2058",
+    "po_number": "PO-1058",
+    "vendor_name": "Reynholm Industries",
+    "amount": "\u20b9 2,522.45",
+    "currency": "INR",
+    "invoice_date": "2026-05-29",
+    "quantity": 32
+  },
+  {
+    "invoice_id": "INV-2059",
+    "po_number": "PO-1059",
+    "vendor_name": "Momcorp Robotics",
+    "amount": "INR 1,172.32",
+    "currency": "INR",
+    "invoice_date": "2026-06-24",
+    "quantity": 90
+  },
+  {
+    "invoice_id": "INV-2060",
+    "po_number": "PO-1060",
+    "vendor_name": "Vandelay Industries Solutions",
+    "amount": "$2,337",
+    "currency": "USD",
+    "invoice_date": "2026-05-20",
+    "quantity": 60
+  },
+  {
+    "invoice_id": "INV-2061",
+    "po_number": "PO-1061",
+    "vendor_name": "Sundar Textiles Pvt Ltd",
+    "amount": "INR 3,102.00",
+    "currency": "INR",
+    "invoice_date": "2026-05-17",
+    "quantity": 93
+  },
+  {
+    "invoice_id": "INV-2062",
+    "po_number": "PO-1062",
+    "vendor_name": "Stark Industries LLC",
+    "amount": "\u20b9 2,305.34",
+    "currency": "INR",
+    "invoice_date": "2026-05-27",
+    "quantity": 97
+  },
+  {
+    "invoice_id": "INV-2063",
+    "po_number": "PO-1063",
+    "vendor_name": "Wayne Enterprises Inc",
+    "amount": "\u20ac 1.445,53",
+    "currency": "EUR",
+    "invoice_date": "2026-05-06",
+    "quantity": 10
+  },
+  {
+    "invoice_id": "INV-2064",
+    "po_number": "PO-1064",
+    "vendor_name": "Globex Corporation",
+    "amount": "778.03 USD",
+    "currency": "USD",
+    "invoice_date": "2026-06-07",
+    "quantity": 30
+  },
+  {
+    "invoice_id": "INV-2065",
+    "po_number": "PO-1065",
+    "vendor_name": "Acme Industrial Products",
+    "amount": "2,097.24 INR",
+    "currency": "INR",
+    "invoice_date": "2026-05-10",
+    "quantity": 70
+  },
+  {
+    "invoice_id": "INV-2066",
+    "po_number": null,
+    "vendor_name": "Random Subsidiary Limited",
+    "amount": "$4,298",
+    "currency": "USD",
+    "invoice_date": "2026-06-23",
+    "quantity": 98
+  },
+  {
+    "invoice_id": "INV-2067",
+    "po_number": null,
+    "vendor_name": "Random Subsidiary Limited",
+    "amount": "INR 4,281.89",
+    "currency": "INR",
+    "invoice_date": "2026-07-05",
+    "quantity": 54
+  },
+  {
+    "invoice_id": "INV-2068",
+    "po_number": null,
+    "vendor_name": "Random Subsidiary Limited",
+    "amount": "\u20ac 1,437.38",
+    "currency": "EUR",
+    "invoice_date": "2026-06-02",
+    "quantity": 63
+  },
+  {
+    "invoice_id": "INV-2069",
+    "po_number": null,
+    "vendor_name": "Random Subsidiary Limited",
+    "amount": "\u20ac 4.218,48",
+    "currency": "EUR",
+    "invoice_date": "2026-05-27",
+    "quantity": 17
+  },
+  {
+    "invoice_id": "INV-2070",
+    "po_number": null,
+    "vendor_name": "Random Subsidiary Limited",
+    "amount": "\u20b9 764.93",
+    "currency": "INR",
+    "invoice_date": "2026-06-08",
+    "quantity": 60
+  },
+  {
+    "invoice_id": "INV-2071",
+    "po_number": null,
+    "vendor_name": "Random Subsidiary Limited",
+    "amount": "1,701.54 INR",
+    "currency": "INR",
+    "invoice_date": "2026-06-10",
+    "quantity": 98
+  },
+  {
+    "invoice_id": "INV-2072",
+    "po_number": null,
+    "vendor_name": "Random Subsidiary Limited",
+    "amount": "3,770.22 USD",
+    "currency": "USD",
+    "invoice_date": "2026-06-20",
+    "quantity": 7
+  },
+  {
+    "invoice_id": "INV-2073",
+    "po_number": null,
+    "vendor_name": "Random Subsidiary Limited",
+    "amount": "$4,753.10",
+    "currency": "USD",
+    "invoice_date": "2026-07-05",
+    "quantity": 26
+  },
+  {
+    "invoice_id": "INV-2074",
+    "po_number": null,
+    "vendor_name": "Random Subsidiary Limited",
+    "amount": "2,863.45 USD",
+    "currency": "USD",
+    "invoice_date": "2026-06-21",
+    "quantity": 28
+  },
+  {
+    "invoice_id": "INV-2075",
+    "po_number": null,
+    "vendor_name": "Random Subsidiary Limited",
+    "amount": "3,911.18 USD",
+    "currency": "USD",
+    "invoice_date": "2026-05-16",
+    "quantity": 21
+  }
+]

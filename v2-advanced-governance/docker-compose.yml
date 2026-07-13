@@ -1,0 +1,15 @@
+services:
+  reconciliation-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8501:8501"
+    environment:
+      - OMP_NUM_THREADS=1
+      - MKL_NUM_THREADS=1
+      - OPENBLAS_NUM_THREADS=1
+      - VECLIB_MAXIMUM_THREADS=1
+      - NUMEXPR_NUM_THREADS=1
+      - ARROW_DEFAULT_MEMORY_POOL=system
+    restart: always
